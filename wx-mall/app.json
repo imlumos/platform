@@ -41,7 +41,7 @@
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "仿网易严选",
+    "navigationBarTitleText": "Maxy",
     "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true
   },

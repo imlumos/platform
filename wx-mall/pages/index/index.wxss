@@ -70,7 +70,7 @@
 .a-brand .b {
   width: 750rpx;
   height: auto;
-  overflow: hidden;
+  /* overflow: hidden; */
   position: relative;
 }
 
